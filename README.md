@@ -1,2 +1,7 @@
-# dianqigithub
-Mainly used to store college students' learning codes and open source projects.
+#include<stdio.h>
+int main()
+{
+	printf("Hello world/n");
+
+	return 0;
+}
